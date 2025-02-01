@@ -133,3 +133,8 @@ CACHES = {
 STATICFILES_DIRS = [
    os.path.join(BASE_DIR,'static')
 ]
+REST_FRAMEWORK = {
+    'DEFAULT_RENDERER_CLASSES': (
+        'rest_framework.renderers.JSONRenderer',  # Renderer for JSON response
+    ),
+}
