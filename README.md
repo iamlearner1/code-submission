@@ -22,7 +22,7 @@ This project is a **Django REST Framework (DRF) API** for managing FAQs (Frequen
 
 ### 1. Clone the Repository
 ```sh
-$ git clone https://github.com/yourusername/faq_project.git
+$ git clone https://github.com/iamlearner1/code-submission.git
 $ cd faq_project
 ```
 
